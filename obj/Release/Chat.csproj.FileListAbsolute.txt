@@ -1,0 +1,7 @@
+C:\Users\mokro\Documents\Chat\bin\Release\Chat.exe.config
+C:\Users\mokro\Documents\Chat\bin\Release\Chat.exe
+C:\Users\mokro\Documents\Chat\bin\Release\Chat.pdb
+C:\Users\mokro\Documents\Chat\obj\Release\Chat.csprojAssemblyReference.cache
+C:\Users\mokro\Documents\Chat\obj\Release\Chat.csproj.CoreCompileInputs.cache
+C:\Users\mokro\Documents\Chat\obj\Release\Chat.exe
+C:\Users\mokro\Documents\Chat\obj\Release\Chat.pdb
